@@ -1,8 +1,7 @@
-
 let show_sequence = {
-    "1-small.png": 2300.5,
-    "2-small.png": 2400.5,
-    "3-small.png": 2500.5
+    "1-small.png": 2300.5, // milliseconds
+    "2-small.png": 2400.5, // milliseconds
+    "3-small.png": 2500.5  // milliseconds
 };
 
 function init()
